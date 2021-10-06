@@ -1,0 +1,3 @@
+# Ignore dynaconf secret files
+config/.secrets.yml
+log/

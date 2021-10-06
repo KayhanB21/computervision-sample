@@ -1,0 +1,3 @@
+# ignore folders
+/app/log/
+/app/config/.secrets.yml
